@@ -5,11 +5,11 @@ This repository contains all the tasks which I did during my CodSoft C++ interns
 ## Tasks Overview
 
 
-1) [**Tic-Tac-Toe**](https://github.com/Professionalser2578/CODSOFT/blob/main/02_tic_tac_toe.cpp)
+1) [**Tic-Tac-Toe**](https://github.com/Professionalser2578/CODSOFT/blob/main/01_tic_tac_toe.cpp)
 
-2) [**Simple Calculator**](https://github.com/Professionalser2578/CODSOFT/blob/main/04_simple_calculator.cpp)
+2) [**Simple Calculator**](https://github.com/Professionalser2578/CODSOFT/blob/main/02_simple_calculator.cpp)
 
-3) [**Number Guessing Game**](https://github.com/Professionalser2578/CODSOFT/blob/main/05_number_guessing_game.cpp)
+3) [**Number Guessing Game**](https://github.com/Professionalser2578/CODSOFT/blob/main/03_number_guessing_game.cpp)
 
 ## Description
 
